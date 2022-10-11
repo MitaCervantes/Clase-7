@@ -1,3 +1,6 @@
 # Clase-7
 
-probando desde GitHub Desktop
+probando desde GitHub Desktop!
+
+
+Mariana Cervantes
