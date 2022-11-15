@@ -1,4 +1,4 @@
-# Clase-7
+# Practicas!
 
 probando desde GitHub Desktop!
 
